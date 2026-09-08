@@ -1,5 +1,28 @@
 # 💫 About Me:
-⚡ AI Automation Workflows using N8N + Claude API <br>   for business process automation<br>🧠 LLM-powered SaaS products & AI Agent systems<br>📦 Deploying multi-agent systems at scale<br>🦜 LangChain & LangGraph for multi-agent pipelines<br>⚡ Building AI automation with N8N + LLM APIs<br>🤖 Integrating Claude / OpenAI / Gemini into apps<br>🌐 Full-Stack development (React + Node + MySQL)<br>
+I help founders launch AI-powered SaaS products and add AI features to existing apps. You get one developer for the React/Next.js frontend, Node.js backend, AI integration, database, and deployment.
+
+My background includes working as a Senior Software Engineer at Folio3 and leading full-stack development at ByTechSol. I've owned SaaS delivery from requirements and architecture through code reviews, testing, and production fixes.
+
+A few products I've built and deployed:
+
+* Signal: An AI customer feedback platform that identifies sentiment and urgency and suggests action items, with Supabase authentication and an analytics dashboard.
+* ClauseWise: A contract review platform that extracts PDF/DOCX clauses, checks them against company playbooks, and presents risk scores with cited suggestions.
+* Sehat: A medical report explanation app with Urdu and English output using Gemini, plus an Android version built from the same React codebase with Capacitor.
+* Cipher AI: A recruitment platform with CV screening, automated interviews, and candidate assessment reports.
+
+How I can help:
+
+* Build a SaaS MVP with authentication, dashboards, APIs, a database, and deployment.
+* Add AI chatbots, RAG pipelines, AI agents, and document processing to your product.
+* Extend or fix React/Next.js applications and Node.js backends.
+* Turn your React web app into an Android app with Capacitor.
+
+I work with TypeScript, Tailwind CSS, PostgreSQL, Supabase, MongoDB, and Python, alongside OpenAI, Claude, Gemini, and Groq APIs.
+
+When we work together, I'll help define a practical first milestone, explain technical trade-offs, and share working features you can review. You work directly with the developer responsible for the complete build.
+
+Send me a message on Upwork with your product idea or current app and the feature you want to build next. Let's work out a clear starting point.
+ <br>
 
 
 ## 🌐 Socials:
